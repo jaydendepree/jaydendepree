@@ -1,24 +1,24 @@
-# 👋 Hoi, ik ben Jayden!  
+# 👋 Hi, i am Jayden!  
 
-## 🌍 Over Mij  
-- **Naam**: Jayden Mitchell de Pree  
-- **Locatie**: Noord-Holland, Nederland  
-- **Leeftijd**: 19 jaar  (26-12-2004)
-
-## 🎓 Studie  
-- **Opleiding**: IT - Software Developer  
+## 🌍 About me  
+- **Name**: Jayden Mitchell de Pree  
+- **Location**: Noord-Holland, Netherlands  
+- **Age**: 19 years  (26-12-2004)
+  
+## 🎓 Education  
+- **Program**: IT - Software Developer  
 - **School**: BIT Academy, Amsterdam  
 
 ## 💻 Skills  
-- **Talen**: HTML, JavaScript, C & een beetje Python  
-- **Focus**: Creatieve en interactieve webontwikkeling
-- **Specialisatie**: Front-end  
+- **Languages**: HTML, JavaScript, C & a bit of Python  
+- **Focus**: Creative and interactive web development  
+- **Specialization**: Front-end  
 
-## ⚽ Hobby's  
-- Voetballen & sporten  
-- Gamen 🎮  
-- Nieuwe technologieën ontdekken 🚀  
+## ⚽ Hobbies  
+- Playing football & sports ⚽  
+- Gaming 🎮  
+- Exploring new technologies 🚀  
 
 ## 📩 Contact  
-- **E-mail**: [jayden.bitac@gmail.com]  
+- **Email**: [jayden.bitac@gmail.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/jayden-de-pree-385b04330/]  
