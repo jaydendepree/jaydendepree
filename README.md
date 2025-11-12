@@ -10,9 +10,9 @@
 - **School**: BIT Academy, Amsterdam  
 
 ## 💻 Skills  
-- **Languages**: HTML, JavaScript, C & a bit of Python  
+- **Languages**: HTML, JavaScript, Python
 - **Focus**: Creative and interactive web development  
-- **Specialization**: Front-end  
+- **Specialization**: Front-end  & Back-end
 
 ## ⚽ Hobbies  
 - Playing football & sports ⚽  
@@ -20,5 +20,5 @@
 - Exploring new technologies 🚀  
 
 ## 📩 Contact  
-- **Email**: [jayden.bitac@gmail.com]  
+- **Email**: [jayden.depree@outlook.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/jayden-de-pree-385b04330/]  
